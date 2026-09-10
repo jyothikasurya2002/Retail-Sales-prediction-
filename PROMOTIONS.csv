@@ -1,0 +1,7 @@
+promo_id,promo_type,promo_description,start_date,end_date,target_category,is_national_promo
+PRM_001,BOGO,Buy 1 Get 1 on Mens Shirts,2023-01-01,2023-01-15,Menswear,1
+PRM_002,Flat_50,Flat 50% Off on Winter Wear,2023-01-20,2023-02-10,All,1
+PRM_003,Kids_Special,Buy 2 Get 1 Free on Kids,2023-04-01,2023-04-30,Kids,0
+PRM_004,Summer_Sale,Upto 40% Off,2023-05-15,2023-06-15,All,1
+PRM_005,Festive_Bonanza,Shop for 5000 Get 1000 Off,2023-10-01,2023-11-15,All,1
+PRM_006,Clearance,Flat 70% Off,2023-12-15,2023-12-31,Accessories,0

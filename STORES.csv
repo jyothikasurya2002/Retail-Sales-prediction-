@@ -1,0 +1,51 @@
+store_id,city,state,location_type,store_format,store_size_sqft,launch_date,competition_density,avg_monthly_footfall,avg_monthly_sales,zone
+STR_001,Ahmedabad,Gujarat,Rural,Medium High-Street,5000,2018-02-12,5,5457,7442362,West
+STR_002,Pune,Maharashtra,Suburban,Large Format,10000,2019-12-19,9,7825,11034832,South
+STR_003,Bangalore,Karnataka,Suburban,Medium High-Street,5000,2015-09-08,8,2577,3089775,West
+STR_004,Hyderabad,Telangana,Metro,Medium High-Street,5000,2016-10-25,8,4335,3769901,East
+STR_005,Kolkata,West Bengal,Metro,Medium High-Street,5000,2018-05-29,10,3823,2101394,South
+STR_006,Kolkata,West Bengal,Rural,Large Format,10000,2015-03-06,5,7579,5811942,West
+STR_007,Ahmedabad,Gujarat,Metro,Medium High-Street,5000,2019-04-12,7,5671,8074260,East
+STR_008,Pune,Maharashtra,Metro,Mall Store,2000,2015-11-24,8,1858,1692911,North
+STR_009,Ahmedabad,Gujarat,Rural,Mall Store,2000,2016-11-13,5,2279,1967636,East
+STR_010,Chennai,Tamil Nadu,Metro,Mall Store,2000,2016-04-18,1,1400,830505,North
+STR_011,Pune,Maharashtra,Metro,Mall Store,2000,2019-05-14,2,2010,2813515,West
+STR_012,Kolkata,West Bengal,Rural,Mall Store,2000,2018-04-22,10,2878,2948395,East
+STR_013,Kolkata,West Bengal,Tier-2,Mall Store,2000,2019-06-27,7,2914,2934675,North
+STR_014,Bangalore,Karnataka,Suburban,Mall Store,2000,2016-05-31,9,1297,1846900,South
+STR_015,Delhi,Delhi,Suburban,Medium High-Street,5000,2019-12-21,3,4665,2551005,West
+STR_016,Mumbai,Maharashtra,Tier-2,Medium High-Street,5000,2017-05-18,5,6111,4168920,North
+STR_017,Bangalore,Karnataka,Tier-2,Mall Store,2000,2018-04-18,9,2193,2782954,West
+STR_018,Pune,Maharashtra,Tier-2,Medium High-Street,5000,2018-12-07,10,6027,4857316,North
+STR_019,Mumbai,Maharashtra,Metro,Large Format,10000,2018-11-19,4,5021,2926448,North
+STR_020,Bangalore,Karnataka,Tier-2,Large Format,10000,2017-01-06,7,13623,17011107,East
+STR_021,Kolkata,West Bengal,Metro,Large Format,10000,2018-03-24,10,12245,7629629,North
+STR_022,Ahmedabad,Gujarat,Rural,Mall Store,2000,2018-06-08,6,2310,2837427,East
+STR_023,Hyderabad,Telangana,Tier-2,Medium High-Street,5000,2015-03-29,5,3889,4260387,West
+STR_024,Bangalore,Karnataka,Rural,Large Format,10000,2018-03-30,2,11944,12230158,East
+STR_025,Kolkata,West Bengal,Rural,Large Format,10000,2018-06-27,2,11499,13616822,South
+STR_026,Chennai,Tamil Nadu,Rural,Medium High-Street,5000,2019-06-17,6,3368,2352403,South
+STR_027,Ahmedabad,Gujarat,Metro,Large Format,10000,2019-05-12,3,5886,6065042,East
+STR_028,Ahmedabad,Gujarat,Metro,Mall Store,2000,2019-08-05,9,1426,1016257,East
+STR_029,Chennai,Tamil Nadu,Metro,Large Format,10000,2015-03-26,10,11085,10087392,South
+STR_030,Ahmedabad,Gujarat,Rural,Medium High-Street,5000,2016-02-03,10,6852,9476934,East
+STR_031,Pune,Maharashtra,Rural,Large Format,10000,2017-05-12,9,10200,11835836,North
+STR_032,Kolkata,West Bengal,Rural,Medium High-Street,5000,2020-02-19,3,7349,7832973,North
+STR_033,Pune,Maharashtra,Metro,Large Format,10000,2017-07-25,8,12128,18172631,South
+STR_034,Kolkata,West Bengal,Tier-2,Mall Store,2000,2017-06-25,4,2854,3625572,South
+STR_035,Hyderabad,Telangana,Tier-2,Mall Store,2000,2018-07-16,5,2805,3532681,East
+STR_036,Ahmedabad,Gujarat,Metro,Mall Store,2000,2016-12-04,6,2701,1487046,East
+STR_037,Chennai,Tamil Nadu,Rural,Medium High-Street,5000,2018-08-21,5,6509,6964811,East
+STR_038,Mumbai,Maharashtra,Rural,Large Format,10000,2016-03-27,1,8857,8653554,North
+STR_039,Mumbai,Maharashtra,Tier-2,Large Format,10000,2018-03-25,2,11046,16054510,East
+STR_040,Ahmedabad,Gujarat,Suburban,Medium High-Street,5000,2019-08-27,2,3943,4211108,West
+STR_041,Mumbai,Maharashtra,Metro,Large Format,10000,2020-06-04,7,10324,6373997,South
+STR_042,Mumbai,Maharashtra,Rural,Mall Store,2000,2016-01-31,9,1524,1067611,North
+STR_043,Chennai,Tamil Nadu,Suburban,Large Format,10000,2019-08-06,6,13543,12459853,East
+STR_044,Chennai,Tamil Nadu,Metro,Large Format,10000,2018-11-17,2,8537,8996665,East
+STR_045,Ahmedabad,Gujarat,Metro,Mall Store,2000,2017-03-08,6,2845,2356408,East
+STR_046,Pune,Maharashtra,Rural,Mall Store,2000,2019-07-20,4,1044,1349965,South
+STR_047,Mumbai,Maharashtra,Rural,Medium High-Street,5000,2017-11-23,8,3956,4895335,South
+STR_048,Mumbai,Maharashtra,Rural,Medium High-Street,5000,2020-01-14,3,6917,6328791,South
+STR_049,Kolkata,West Bengal,Tier-2,Large Format,10000,2017-04-01,10,7856,6589979,East
+STR_050,Pune,Maharashtra,Suburban,Mall Store,2000,2019-10-01,1,1034,1126156,West
